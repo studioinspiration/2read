@@ -1,7 +1,7 @@
 #JAVASCRIPT
 
 ### Architecture
- * [https://www.youtube.com/watch?v=OFnDCLIt6To](https://www.youtube.com/watch?v=OFnDCLIt6To)
+ * [Build Progressive Web Apps](https://www.youtube.com/watch?v=OFnDCLIt6To)
 
 ### Best Practices
  * [Code Conventions for the JavaScript ](http://javascript.crockford.com/code.html)
