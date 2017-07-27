@@ -29,6 +29,7 @@
 
 ### [Javascript](frontend/JS.md)
 
+* Architecture
 * Best Practices
 * TypeScript
 
