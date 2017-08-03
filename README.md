@@ -1,9 +1,11 @@
 # 2read
 
-## Algorithms
+## Architecture
 
-### [Algorithms](algorithms/ALGORITHMS.md)
 
+###[Architecture](architecture/ARCHITECTURE.md#Architecture)
+
+###[Algorithms](architecture/ARCHITECTURE.md#Algorithms)
 * AI
 * Other
 
