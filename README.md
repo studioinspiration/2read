@@ -34,6 +34,7 @@
 * Architecture
 * Best Practices
 * TypeScript
+* UI
 
 
 ## Security
