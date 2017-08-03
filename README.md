@@ -3,9 +3,9 @@
 ## Architecture
 
 
-###[Architecture](architecture/ARCHITECTURE.md#Architecture)
+### [Architecture](architecture/ARCHITECTURE.md#Architecture)
 
-###[Algorithms](architecture/ARCHITECTURE.md#Algorithms)
+### [Algorithms](architecture/ARCHITECTURE.md#Algorithms)
 * AI
 * Other
 
