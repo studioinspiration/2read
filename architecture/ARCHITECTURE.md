@@ -2,6 +2,7 @@
 
 ## Architecture
 * [Micro Shop Microservice Tutorial](http://www.sczyh30.com/vertx-blueprint-microservice/index.html)
+* [Microservices and other stuff](http://microservices.io/index.html)
 
 ## Algorithms
 
