@@ -7,6 +7,7 @@
  * [CQRS w PHP (Symfony)](https://zawarstwaabstrakcji.pl/20170130-cqrs-w-praktyce-wprowadzenie-php/)
  * [Design Patterns #1](https://sourcemaking.com/design_patterns)
  * [Wprowadzenie do DDD](https://bottega.com.pl/pdf/materialy/sdj-ddd.pdf)
+ * [Value objects](https://dzone.com/articles/practical-php-patterns/basic/practical-php-patterns-value)
 
 ### Libraries
  * [RxPHP](https://github.com/ReactiveX/RxPHP)
