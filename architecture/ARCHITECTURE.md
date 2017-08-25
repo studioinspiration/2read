@@ -2,6 +2,7 @@
 
 ## Architecture
 * [Micro Shop Microservice Tutorial](http://www.sczyh30.com/vertx-blueprint-microservice/index.html)
+* [Microservices by Nginx](https://www.nginx.com/blog/building-microservices-using-an-api-gateway/)
 
 ## Algorithms
 
